@@ -1,0 +1,15 @@
+{
+  "inputs": [],
+  "servers": {
+    "MCP-Test-Echo": {
+      "type": "stdio",
+      "command": "dotnet",
+      "args": [
+        "run",
+        "--project",
+        "C:\\Projects\\GitHub\\hackathon-2025-prepare-mvc\\src\\mcp.server\\mcp.server.app\\mcp.server.app.csproj"
+      ]
+    }
+  }
+}
+

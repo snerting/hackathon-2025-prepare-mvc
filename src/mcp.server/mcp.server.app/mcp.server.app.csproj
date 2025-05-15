@@ -12,4 +12,8 @@
     <PackageReference Include="ModelContextProtocol" Version="0.1.0-preview.14" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Features\Monitoring\" />
+  </ItemGroup>
+
 </Project>
